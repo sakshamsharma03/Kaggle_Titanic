@@ -161,13 +161,6 @@ In this part, I tried to improve the accuracy of the selected classifiers by hyp
 
 The classifier are quiet correlated. This is a good sign! However we observe some differences between the 5 classifiers. This is good for you because we can leverage the use of a voting system to improve our prediction.
 
-## Submission
-
-My submitted file is: titanic-predictions.csv. 
-
-## Author
-
-* **Selim Amrouni** [selimamrouni](https://github.com/selimamrouni)
 
 
 
